@@ -1,0 +1,8 @@
+valid_mail = 'viki_127@mail.ru'
+valid_password = 'yXe-xGP-deK-zGw'
+valid_login = 'rtkid_1681219829563'
+valid_phone = '+79157159195'
+invalid_mail = 'invalid@mail.ru'
+invalid_password = 'invalidpass'
+invalid_login = 'invalidlogin'
+invalid_phone = '+71234567890'
